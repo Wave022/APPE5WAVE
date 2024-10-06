@@ -1,1 +1,6 @@
-# APPE5WAVE
+<<<<<<< HEAD
+<Your changes>
+=======
+<Remote changes>
+>>>>>>> <commit-hash>
+
